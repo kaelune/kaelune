@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Most Likely: ...
 -->
+ <img align="right" alt="Coding" width="400" src="banner.png">
 
-#### -- Social Media 📫 --
+- 📫 How to reach me: Instagram
+- ⚡ Most Likely: Valorant, PHP
+
+### -- Social Media 📫 --
 <p align="left">
 <a href="https://www.linkedin.com/in/pilar-filino-hadi-791637235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/laaarhad_i/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
