@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Most Likely: ...
 -->
- <img align="right" alt="Coding" width="400" src="banner.png">
+ <img align="left" alt="Banner" width="700" src="banner.png">
+<br>
+<br><br>
+<br><br>
+<br>
 
 - 📫 How to reach me: Instagram
 - ⚡ Most Likely: Valorant, PHP
