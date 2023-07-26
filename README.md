@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 ## -- Stats 📊 --
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelune&show_icons=true&border_radius=5&theme=neon&card_width=400&card_height=80&locale=id)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelune&show_icons=true&border_radius=5&theme=neon&card_width=400&card_height=80&locale=en)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaelune&theme=neon&hide_border=false&border_radius=5&locale=id&mode=weekly&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaelune&theme=neon&hide_border=false&border_radius=5&locale=en&mode=weekly&card_width=600)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaelune&theme=radical&border_radius=5&locale=id)](https://github.com/kaelune/github-profile-trophy)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaelune&layout=compact&theme=neon&border_radius=5&locale=id&card_width=365)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaelune&layout=compact&theme=neon&border_radius=5&locale=en&card_width=365)
 
 ## -- Others 🍃 --
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315oy5hzjv4wjew5zztjbgz7jzyy&count=3)
