@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 - 📫 How to reach me: Instagram
-- ⚡ Most Likely: Valorant, PHP
-
+  
 ![](https://komarev.com/ghpvc/?username=kaelune&color=blueviolet)
 
 ## -- Social Media 📫 --
