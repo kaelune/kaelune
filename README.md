@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/laaarhad_i/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-filino-hadi-791637235/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-](https://www.youtube.com/@vermillistatz/featured)
+](https://www.youtube.com/channel/UC_IY4XJMsXu7e1uc3wRSnXw)
 
 ## -- Stats 📊 --
 
