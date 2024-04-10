@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <br><br>
 <br><br>
 <br>
-
-- 📫 How to reach me: Instagram
   
 ![](https://komarev.com/ghpvc/?username=kaelune&color=blueviolet)
 
